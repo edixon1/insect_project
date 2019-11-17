@@ -1,0 +1,3 @@
+Web scraper to pull bug images
+Get a server going
+Need to identify what kind pictures not containing bugs

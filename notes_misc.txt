@@ -1,0 +1,5 @@
+transfer learning
+	Using a CNN that has been trained on
+	generic image classification tasks to approach
+	a more specialized 
+	allows for use of a smaller training set
